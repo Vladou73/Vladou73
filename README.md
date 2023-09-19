@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋, I am Vladimir
+🖥️ Junior fullstack developper with data analysis and product owner background
 
-<!--
-**Vladou73/Vladou73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently available for work. If you're looking for a junior software engineer who is also a dedicated learner and team player, feel free to reach out! more infos [here](https://www.linkedin.com/in/vladimir-nafissi-45434a63/)
 
-Here are some ideas to get you started:
+📚 I studied at [Ecole 42](https://42.fr/) and [O'Clock](https://oclock.io/formations/developpeur-web-fullstack-javascript). In a former life I also studied business at [ESSEC](https://www.essec.edu/fr/programme/grande-ecole/grande-ecole-concours/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills 🛠
+- NEST.JS, NODE.JS (EXPRESS)
+- REACT.JS
+- TYPESCRIPT
+- SQL (MySQL, PostgreSQL)
+- GIT / BASH
+- C, C++
