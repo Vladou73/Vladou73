@@ -5,7 +5,7 @@
 
 📚 I studied at [Ecole 42](https://42.fr/) and [O'Clock](https://oclock.io/formations/developpeur-web-fullstack-javascript). In a former life I also studied business at [ESSEC](https://www.essec.edu/fr/programme/grande-ecole/grande-ecole-concours/)
 
-🎮 Latest project : https://github.com/42-team-transcendence/42_ft_transcendence/wiki
+🎮 Latest project : https://github.com/42-team-transcendence/42_ft_transcendence
 
 🛠 Skills 🛠
 - NEST.JS, NODE.JS (EXPRESS)
